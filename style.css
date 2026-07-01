@@ -1,0 +1,25 @@
+body {
+    width:1280px; /* largeur of 1280 pixels*/
+    margin: auto; /* automatic marges to position horizontally */
+    background-color: white; /* background color */
+}
+
+h1 {
+    text-align: center;
+    font-family: Verdana;
+    color: violet;
+    font-size: 40px;
+   
+}
+
+p {
+	font-family: Arial;
+}
+
+h2 {
+	font-family: Verdana;
+}
+
+.brown {
+	color: brown;
+}
