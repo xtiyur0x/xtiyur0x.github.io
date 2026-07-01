@@ -1,2 +1,2 @@
 # xtiyur0x.github.io
-random website for my high school projects
+Hi, this is a random website for my high school projects. Feel free to check them out!
